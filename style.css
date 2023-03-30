@@ -1,0 +1,44 @@
+body{
+	background: black;
+}
+.text{
+ color: white; 
+ font-family: 'Oswald', sans-serif;
+ 
+}
+h3{
+	color: white;
+	font-size: 40px;
+   font-family: 'Delicious Handrawn', cursive;
+}
+p{
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+div{
+	background: blue;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	font-family: 'Delicious Handrawn', cursive;
+
+}
+input{
+	color: black;
+	font-family: 'Delicious Handrawn', cursive;
+}
+.energico{
+	color: white;
+}
+img{
+	padding: 15px;
+	background-color: yellow;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 80%;
+}
+.color{
+	background-color: white;
+}
